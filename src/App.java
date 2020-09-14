@@ -25,6 +25,9 @@ public class App {
         rectangulos = new ArrayList<>();
         miVentana = new Canvas("Hola Ventana", ancho, alto);
         miVentana.setVisible(true);
+        /*
+        Continuamos agregando codigo
+        */
     }
 
     /**
